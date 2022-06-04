@@ -5,8 +5,7 @@
 
 ***
 
-## Question 1
-### Two Sum
+## Question 1 - Two Sum
 
 #### Problem
 Given an array of integers and a target number/value, 
@@ -24,3 +23,4 @@ the same element twice.
 #### Logic
 Since `nums[0]` + `nums[1]` = 2 + 7 = `9`, return `[0, 1]`
 
+***

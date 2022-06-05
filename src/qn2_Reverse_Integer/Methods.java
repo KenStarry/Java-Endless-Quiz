@@ -22,4 +22,25 @@ public class Methods {
 
         return (int) out;
     }
+
+    public int reverseInt2(int x) {
+
+        //  Convert the integer to a string
+        String s = String.valueOf(x);
+        //  Convert the string to an array of characters
+        char[] chars = s.toCharArray();
+
+        //  Create an empty String to hold the reversed number
+        StringBuilder reversedNum = new StringBuilder();
+
+        //  Loop through the characters as you append them to the reversedString
+        for (int i = chars.length - 1; i >= 0; i--) {
+
+            //  Append the digits from the last one
+            reversedNum.append(chars[i]);
+        }
+
+        //  Convert the String builder to string then to an integer
+        return Integer.parseInt(reversedNum.toString());
+    }
 }

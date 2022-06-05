@@ -1,11 +1,4 @@
-# Java-Endless-Quiz
-- Java Interview questions to help sharpen your Java Skills and expertise. Enjoy!
-
-- Check the source __(src)__ directory in the list of directories for the code.
-
-***
-
-## Question 1 - Two Sum
+## Challenge 1 - Two Sum
 
 #### Problem
 Given an array of integers and a target number/value, 

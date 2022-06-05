@@ -12,6 +12,7 @@ public class Solution {
         int x = 123456;
 
         System.out.println("Reversed Integer : " + m.reverseInt(x));
+        System.out.println("Reversed Integer : " + m.reverseInt2(x));
 
     }
 

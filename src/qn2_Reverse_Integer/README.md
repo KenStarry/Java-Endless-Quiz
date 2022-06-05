@@ -1,4 +1,4 @@
-## Question 2 - Reverse Integer
+## Challenge 2 - Reverse Integer
 
 #### Problem
 Given a 32-bit signed integer, reverse digits of an integer.

@@ -2,6 +2,7 @@
 - Java Interview questions to help sharpen your Java Skills and expertise. Enjoy!
 
 - Check the source __(src)__ directory in the list of directories for the code.
+- Each question has its own README.md file so feel free to check it out to get an idea of what the challenge entails.
 
 ## Features
 

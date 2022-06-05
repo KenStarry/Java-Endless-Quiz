@@ -3,24 +3,15 @@
 
 - Check the source __(src)__ directory in the list of directories for the code.
 
-***
+## Features
 
-## Question 1 - Two Sum
+- Daily posts of Java related programming questions.
+- Random questions from topics such as:
+  - Algorithms
+  - Data Structures
+  - Classes
+  - Arrays, ArrayLists, LinkedLists e.t.c
 
-#### Problem
-Given an array of integers and a target number/value, 
-return indices of the two numbers such that they add up to the target value.
-You may assume that each input would have exactly one solution, and you may not use
-the same element twice.
-
-#### Sample
-
-```Java
-    int[] nums = {2, 7, 11, 15};
-    int target = 9;
-```
-
-#### Logic
-Since `nums[0]` + `nums[1]` = 2 + 7 = `9`, return `[0, 1]`
-
+## Note
+- Feel free to contribute to this repo.
 ***
